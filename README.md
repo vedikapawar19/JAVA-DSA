@@ -22,7 +22,7 @@ All code is organized into dedicated folders by DSA topic to ensure easy navigat
 13.Greedy Algorithm
 14.Binary Trees
 
-## 🚀 Getting Started (How to Run the Code)
+## (How to Run the Code):
 
 1.  *Clone the Repository:*
     bash
