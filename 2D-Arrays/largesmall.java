@@ -39,6 +39,4 @@ public class largesmall {
         FindLargeSmall(matrix);
 
     }
-}{
-
 }
