@@ -1,4 +1,4 @@
-//Print Sum of 2nd Row in 2D-Matrix
+//Print Sum of 2nd Row in 2D-Matrix.
 public class practice2 {
     public static void printSumofRow(int arr[][]) {
         int sum = 0;
