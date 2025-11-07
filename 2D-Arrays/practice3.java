@@ -1,4 +1,4 @@
-//Print Transpose of 2D-Matrix
+//Print Transpose of 2D-Matrix.
 public class practice3 {
 
     public static void printmatrix(int arr[][]) {
