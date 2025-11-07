@@ -1,4 +1,4 @@
-//Print the Total count of number 7 present in 2D-Matrix
+//Print the Total count of number 7 present in 2D-Matrix.
 public class practice1 {
     public static void printNumof7(int arr[][], int num) {
         int sumofcount = 0;
