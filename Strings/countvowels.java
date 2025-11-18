@@ -1,0 +1,18 @@
+import java.util.*;
+
+//Count Vowels in Strings
+public class countvowels {
+
+    public static void main(String[] args) {
+        String str = new Scanner(System.in).next();
+        int count = 0;
+        for (int i = 0; i < str.length(); i++) {
+            char ch = str.charAt(i);
+            if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
+                count++;
+            }
+        }
+        System.out.println("Total count of vowels in String:" + count);
+
+    }
+}
